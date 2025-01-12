@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Fikus-store
+Comment=FikusOS Package Manager
+Exec=Fikus-Store
+Icon=pacseek
+Terminal=false
+Type=Application
+Categories=Utility;System;
